@@ -13,13 +13,13 @@ an argument. This will change the port the server will listen on.
 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//  NOTE:                                                                                                      //
-//     Startup code was provided by Massey teacher Napoleon Reyes to get cross platform functionality           //
-//     (majority of the code blocks with "#if defined"), along with code for 'quit' 'syst' and 'port' commands. //
-//                                                                                                              //
-//     My contributions are converting IPv4 only data structs to IPv4/IPv6 data structs, 'user' 'pass' 'type'   //
-//     'eptr' and 'list' commands, as well as socket set up.                                                    //
-//                                                                                                              //
+//  NOTE:                                                                                                      
+//     Startup code was provided by Massey teacher Napoleon Reyes to get cross platform functionality         
+//     (majority of the code blocks with "#if defined"), along with code for 'quit' 'syst' and 'port' commands. 
+//                                                                                                              
+//     My contributions are converting IPv4 only data structs to IPv4/IPv6 data structs, 'user' 'pass' 'type'   
+//     'eptr' and 'list' commands, as well as socket set up.                                                    
+//                                                                                                              
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 

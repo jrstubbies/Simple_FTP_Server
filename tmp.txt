@@ -1,0 +1,20 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 7009-C05A
+
+ Directory of C:\Users\jrstu\OneDrive\Desktop\MStubbs_15358580
+
+03/01/2025  11:51 am    <DIR>          .
+03/01/2025  11:29 am    <DIR>          ..
+03/01/2025  11:07 am    <DIR>          .vscode
+08/04/2024  12:43 pm           100,376 black.jpg
+03/01/2025  11:28 am               684 makefile
+08/04/2024  12:43 pm               163 makefile - macOS
+08/04/2024  12:43 pm               176 makefile - Windows
+08/04/2024  12:43 pm             1,142 sample_ftp_ipv4_interaction.txt
+08/04/2024  12:43 pm             1,173 sample_ftp_ipv6_interaction.txt
+03/01/2025  11:47 am            36,338 server.cpp
+03/01/2025  11:47 am           473,369 server.exe
+03/01/2025  11:58 am                 0 tmp.txt
+08/04/2024  12:43 pm            71,993 white.jpg
+              10 File(s)        685,414 bytes
+               3 Dir(s)  582,387,605,504 bytes free
